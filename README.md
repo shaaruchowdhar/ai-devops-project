@@ -14,9 +14,11 @@ This is a simple DevOps project where a Flask web application is containerized u
 
 ## 📂 Project Structure
 
-```text id="v8k2qp"
+```text
 ai-devops-project/
 │── app.py
 │── Dockerfile
 │── README.md
-```
+
+## 👨‍💻 Author
+Shaaru
