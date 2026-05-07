@@ -21,4 +21,4 @@ ai-devops-project/
 │── README.md
 
 ## 👨‍💻 Author
-Shaaru
+Sharanya swarna | Aspiring DevOps Engineer
